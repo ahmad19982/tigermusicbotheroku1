@@ -1,10 +1,10 @@
 {
   
-  "YOUTUBE_API_KEY": "AIzaSyDR5zbkj-xWVID5vrQRdyN3a1sru7RlXA4",
-  "SOUNDCLOUD_CLIENT_ID": "هنا تقدر تحط ساوند ايدي في حاله تبي تشغل الاغاني من الساوند",
+  "YOUTUBE_API_KEY": "AIzaSyAtc8Eb0_g3oaehKilqm-YUEJytHGUGPJU",
+  "SOUNDCLOUD_CLIENT_ID": "koSuixzk25Cz0fDgsPfhkgeZcKBr7",
   "MAX_PLAYLIST_SIZE": 1000,
-  "PREFIX": "هنا تحط البريفكس",
-  "PRUNING": false,
+  "PREFIX": "1",
+  "PRUNING": true,
   "LOCALE": "en",
   "STAY_TIME":604800,
   "DEFAULT_VOLUME": 100
