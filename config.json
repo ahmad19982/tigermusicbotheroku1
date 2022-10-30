@@ -5,7 +5,7 @@
   "MAX_PLAYLIST_SIZE": 1000,
   "PREFIX": "1",
   "PRUNING": true,
-  "LOCALE": "en",
+  "LOCALE": "ar",
   "STAY_TIME":604800,
   "DEFAULT_VOLUME": 100
 }
